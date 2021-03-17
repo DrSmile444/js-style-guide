@@ -1,0 +1,21 @@
+{
+  "name": "js-style-guide",
+  "version": "1.0.0",
+  "description": "This repository helps new programmers to learn how to code-style their code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "style",
+    "studing"
+  ],
+  "author": "Dmytro Vakulenko",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}

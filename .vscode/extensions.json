@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "ritwickdey.liveserver",
+        "formulahendry.code-runner"
+    ]
+}
