@@ -10,6 +10,12 @@ module.exports = {
     ecmaVersion: 12,
     sourceType: 'module',
   },
+  plugins: [
+    'eslint-plugin-html',
+  ],
   rules: {
+    'no-alert': 'off',
+    'no-console': 'off',
+    'no-plusplus': 'off',
   },
 };
